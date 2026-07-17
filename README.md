@@ -50,12 +50,13 @@ Bu proje, Flutter kullanarak hazırlanmış temel bir alışveriş uygulaması �
 
 ### Home Page:
 
-<img src="screenshots/home.png" width="500" /> 
+<p><img src="screenshots/home.png" width="500" /></p>
 
 ### Ürün Detay:
 
-<img src="screenshots/product_detail.png" width="500" /> 
+<p><img src="screenshots/product_detail.png" width="500" /></p>
 
 ### Sepet:
 
-<img src="screenshots/cart.png" width="500" />
+<p><img src="screenshots/cart.png" width="500" /></p>
+
